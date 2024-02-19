@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Projects based on Python language with the suitable peoples.
-- 📫 How to reach my project discussions
+- 📫 How to reach my project discussions to the persons.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
